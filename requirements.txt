@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+Flask
+
+
+# Development dependencies
+flake8==6.0.0         # For linting
+pytest==7.4.2         # For testing
+black==23.7.0         # For code formatting
+autopep8
+
