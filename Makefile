@@ -1,6 +1,6 @@
 # Makefile for Flask application
 
-.PHONY: install lint test format
+# .PHONY: install lint test format
 
 # Install dependencies
 install:
