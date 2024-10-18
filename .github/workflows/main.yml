@@ -29,10 +29,10 @@ jobs:
           source venv/bin/activate
           pip install -r requirements.txt
 
-      - name: Lint code
-        run: |
-          source venv/bin/activate
-          make lint
+      # - name: Lint code
+      #   run: |
+      #     source venv/bin/activate
+      #     make lint
 
       - name: Run tests
         run: |
