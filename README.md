@@ -1,11 +1,13 @@
-# premium-times-news-web-scraper
-APIs to scrape Premium times for lastest news
+[![CI](https://github.com/Mudathir-Salahudeen/premium-times-news-web-scraper/actions/workflows/main.yml/badge.svg)](https://github.com/Mudathir-Salahudeen/premium-times-news-web-scraper/actions/workflows/main.yml)
 
-# Article Scraper API
+# premium-times-news-web-scraper
+APIs to scrape Premium Times for latest news
+
+# News Scraper API
 
 ## Description
 
-This is a Flask application that scrapes articles from specified URLs and exposes an API for fetching article details like title, author, date, image URL, and full content.
+This is a Flask application that scrapes news from Premium Times Business News {https://www.premiumtimesng.com/category/business/business-news} and exposes an API for fetching article details like title, author, date, image URL, and full content.
 
 ## Installation
 
